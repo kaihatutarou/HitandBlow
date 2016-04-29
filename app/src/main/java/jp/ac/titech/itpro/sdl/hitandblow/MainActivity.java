@@ -42,8 +42,6 @@ public class MainActivity extends AppCompatActivity {
     private int[] problem;
     private int[] guess;
     private boolean game_started;
-    
-    private int test;
 
     private Random rnd;
 
